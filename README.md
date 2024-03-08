@@ -4,8 +4,7 @@ As we move to Level 2, the analysis delves deeper into restaurant ratings, cuisi
 Level 3 tasks involve more advanced analysis, including sentiment analysis of text reviews, investigating the relationship between votes and ratings, and exploring the correlation between price range and service offerings. 
 Each task is designed to provide valuable insights into various aspects of the restaurant industry, catering to different levels of analytical expertise and complexity.
 
-Detailed Analysis
-Sure, here are level-wise paragraphs summarizing the tasks:
+Detailed Analysis 
 
 Level 1:
 In Level 1, the focus is on fundamental analyses of restaurant data. 
